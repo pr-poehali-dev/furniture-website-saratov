@@ -59,7 +59,7 @@ const Index = () => {
             </div>
             <div className="relative">
               <img 
-                src="/img/85046f5b-1e65-4525-97d3-e37401ed683d.jpg" 
+                src="/img/27be1411-d03d-485b-8ec4-de7c70537921.jpg" 
                 alt="Встроенный шкаф-купе"
                 className="rounded-lg shadow-xl w-full"
               />
@@ -123,7 +123,7 @@ const Index = () => {
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <div className="relative h-64">
                 <img 
-                  src="/img/85046f5b-1e65-4525-97d3-e37401ed683d.jpg"
+                  src="/img/27be1411-d03d-485b-8ec4-de7c70537921.jpg"
                   alt="Встроенные шкафы-купе"
                   className="w-full h-full object-cover"
                 />
@@ -150,7 +150,7 @@ const Index = () => {
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <div className="relative h-64">
                 <img 
-                  src="/img/92e654e1-d8bb-4c25-8bba-17901108bc9a.jpg"
+                  src="/img/1062ab60-4fbc-434e-97a1-f21d974ad830.jpg"
                   alt="Гардеробные системы"
                   className="w-full h-full object-cover"
                 />
@@ -177,7 +177,7 @@ const Index = () => {
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <div className="relative h-64">
                 <img 
-                  src="/img/73878d27-df2a-402c-b4ec-5aed78f69ebc.jpg"
+                  src="/img/28850ae1-e600-422e-84fa-7794768373ac.jpg"
                   alt="Корпусная мебель"
                   className="w-full h-full object-cover"
                 />
