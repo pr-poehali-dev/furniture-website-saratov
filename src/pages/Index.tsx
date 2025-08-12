@@ -59,7 +59,7 @@ const Index = () => {
             </div>
             <div className="relative">
               <img 
-                src="/img/27be1411-d03d-485b-8ec4-de7c70537921.jpg" 
+                src="/img/f7ae6a42-f8c8-4aea-84d1-f22bf5eefe6f.jpg" 
                 alt="Встроенный шкаф-купе"
                 className="rounded-lg shadow-xl w-full"
               />
@@ -123,7 +123,7 @@ const Index = () => {
             <Card className="overflow-hidden hover:shadow-lg transition-shadow">
               <div className="relative h-64">
                 <img 
-                  src="/img/27be1411-d03d-485b-8ec4-de7c70537921.jpg"
+                  src="/img/f7ae6a42-f8c8-4aea-84d1-f22bf5eefe6f.jpg"
                   alt="Встроенные шкафы-купе"
                   className="w-full h-full object-cover"
                 />
